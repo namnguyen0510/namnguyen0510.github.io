@@ -1,7 +1,28 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Ảnh của tôi 1"
+excerpt: "Ăn tiệc hôm YEP VHT 2025<br/><img src='/images/profile.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Lyrics: "Có Khi Nào Rời Xa"
+Biết đâu bất ngờ đôi ta chợt rời xa nhau,
+Ai còn đứng dưới mưa ngân nga câu ru tình.
+Và môi hôn rất ướt, dư âm giấu trong mưa.
+Cơn mưa kéo dài...
+Sẽ là dối lòng khi em chẳng ngại âu lo,
+Lo em sẽ mất anh trong lúc yêu thương nhất.
+Vì tình yêu mong manh, tay em quá yếu mềm.
+Người yêu ơi, anh có biết?
+Em yêu anh hơn thế, nhiều hơn lời em vẫn nói.
+Để bên anh em đánh đổi tất cả bình yên
+Đêm buông xuôi vì cô đơn, còn riêng em cứ ngẩn ngơ
+Có khi nào ta xa rời...
+Biết đâu bất ngờ đôi ta chợt rời xa nhau,
+Ai còn đứng dưới mưa ngân nga câu ru tình.
+Và môi hôn rất ướt, dư âm giấu trong mưa.
+Cơn mưa kéo dài...
+Sẽ là dối lòng khi em chẳng ngại âu lo,
+Lo em sẽ mất anh trong lúc yêu thương nhất.
+Vì tình yêu mong manh, tay em quá yếu mềm.
+Người yêu ơi, anh có biết?
+Em yêu anh…
