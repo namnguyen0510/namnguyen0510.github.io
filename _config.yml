@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Hoa (Harvey) Nguyen"
+  pronouns         : "he/him"  
+  bio              : "Devops Engineer"
+  location         : "Gia Lam, Ha Noi"
+  employer         : "Viettel High Tech"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hoaf1306@gmail.com" 
 
   # Academic websites
   academia         : # URL
