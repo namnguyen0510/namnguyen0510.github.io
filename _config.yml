@@ -26,16 +26,16 @@ author:
   avatar           : "profile.png"
   name             : "Nam (Harvey) Nguyen Phuong"
   pronouns         : #  
-  bio              : "Quantum Engineer | MSc in Quantum Technology | Lecturer in Physics & Quantum Computing"
+  bio              : "I am a Quantum Engineer"
   location         : "Ha Noi, Vietnam"
-  employer         : "Viettel High Tech"
+  employer         : "G.A.I.A QTech, Hanoi, Vietnam"
   uri              : # URL
   email            : "namnp0510@gmail.com" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://arxiv.org/search/q-bio?searchtype=author&query=Nguyen,+V+H"
-  googlescholar    : "https://scholar.google.com/citations?hl=vi&user=hxamKpUAAAAJ"
+  arxiv            : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=FON17ToAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
@@ -51,14 +51,14 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "paxd"
-  kaggle           : "nguynvnho"  
+  github           : "namnguyen0510"
+  kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
   bluesky          : #
-  facebook         : "hoaf13.6"
+  facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
