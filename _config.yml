@@ -24,13 +24,13 @@ repository               : "namnguyen0510/namnguyen0510.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hoa (Harvey) Nguyen"
+  name             : "Nam (Harvey) Nguyen Phuong"
   pronouns         : #  
-  bio              : "Devops Engineer"
-  location         : "Gia Lam, Ha Noi"
+  bio              : "Quantum Engineer | MSc in Quantum Technology | Lecturer in Physics & Quantum Computing"
+  location         : "Ha Noi, Vietnam"
   employer         : "Viettel High Tech"
   uri              : # URL
-  email            : "hoaf1306@gmail.com" 
+  email            : "namnp0510@gmail.com" 
 
   # Academic websites
   academia         : # URL
