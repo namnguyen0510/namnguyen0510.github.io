@@ -8,62 +8,41 @@ redirect_from:
 ---
 
 {% include base_path %}
-## 👤 Profile
 
-**Hoa (Harvey) Nguyen**  
-DevOps Engineer | Quantum Computing Enthusiast  
+# Quantum Engineer | MSc in Quantum Technology
 
----
+I am a quantum engineer with a strong background in physics and quantum computing, combined with hands-on experience in building scalable systems.
 
-## 🎓 Education
+My work lies at the intersection of:
 
-- Bachelor in Information Technology  
-- Self-study in Quantum Computing and Distributed Systems  
-
----
-
-## 💼 Experience
-
-### DevOps Engineer — Viettel High Tech
-- Designed and operated Kubernetes (K8S) infrastructure  
-- Built microservices-based systems  
-- Implemented CI/CD and GitOps workflows  
+- Quantum theory
+- Engineering systems
+- Real-world applications
 
 ---
 
-## 🧠 Research Interests
+## Current Focus
 
-- Quantum Computing  
-- Quantum Algorithms  
-- Distributed Systems  
-- AI + Quantum Hybrid  
-
----
-
-## 🛠 Skills
-
-- Kubernetes, Docker  
-- Kafka, Microservices  
-- PostgreSQL, MongoDB  
-- Terraform, AWS  
+- Applied Quantum Computing  
+- Quantum Information Systems  
+- Scalable Engineering Architectures  
 
 ---
 
-## 🚀 Projects
+## Academic Background
 
-- AI Contact Center (Microservices + K8S)  
-- High-throughput Kafka consumer system  
-- eCommerce platform (Flask + Odoo integration)  
-
----
-
-## 📄 Publications
-
-*(Add your publications here)*  
+- MSc in Quantum Technology  
+- Teaching experience in Physics & Quantum Computing  
 
 ---
 
-## 📫 Contact
+## Selected Work
 
-- Email: hoaf1306@gmail.com
-- GitHub: https://github.com/paxd  
+Visit the Publications section for full research details.
+
+---
+
+## Contact
+
+Email: namnp0510@gmail.com  
+GitHub: https://github.com/namnp0510

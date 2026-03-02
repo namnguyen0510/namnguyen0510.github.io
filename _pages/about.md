@@ -7,46 +7,40 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Hoa (Harvey) Nguyen** — a DevOps Engineer with a strong interest in **Quantum Computing** and distributed systems.
+# Quantum Engineer | MSc in Quantum Technology
+
+I am a quantum engineer with a strong background in physics and quantum computing, combined with hands-on experience in building scalable systems.
+
+My work lies at the intersection of:
+
+- Quantum theory
+- Engineering systems
+- Real-world applications
 
 ---
 
-## 🧠 Research Interests
+## Current Focus
 
-- Quantum Computing  
-- Quantum Algorithms  
-- Distributed Systems  
-- AI + Quantum Hybrid Systems  
-
----
-
-## 🚀 Current Work
-
-- Building and operating large-scale systems on Kubernetes (K8S)  
-- Developing high-throughput data processing systems  
-- Exploring optimization techniques in quantum algorithms  
+- Applied Quantum Computing  
+- Quantum Information Systems  
+- Scalable Engineering Architectures  
 
 ---
 
-## 🛠 Technical Skills
+## Academic Background
 
-- Kubernetes, Docker, GitOps  
-- Kafka, Microservices Architecture  
-- PostgreSQL, MongoDB  
-- Terraform, AWS  
+- MSc in Quantum Technology  
+- Teaching experience in Physics & Quantum Computing  
 
 ---
 
-## ✍️ Writing & Sharing
+## Selected Work
 
-I write about:
-
-- Quantum computing (simplified)  
-- Real-world DevOps practices  
-- System architecture and scalability  
+Visit the Publications section for full research details.
 
 ---
 
-## 📫 Contact
+## Contact
 
-Feel free to reach out for collaboration, discussion, or research opportunities.
+Email: namnp0510@gmail.com  
+GitHub: https://github.com/namnp0510
