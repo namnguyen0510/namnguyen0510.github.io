@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "(Harvey) Nam Nguyen"
+title                    : "Phuong-Nam Nguyen"
 title_separator          : "-"
 name                     : &name "Nam Nguyen" # Update this with your name, this is the default if not overridden by a page
 description              : &description "Nam Nguyen's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "namnguyen0510/namnguyen0510.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "(Harvey) Phuong-Nam Nguyen"
+  name             : "Phuong-Nam Nguyen"
   pronouns         : #  
   bio              : "I am a Quantum Engineer"
   location         : "Ha Noi, Vietnam"
