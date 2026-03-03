@@ -227,7 +227,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  writing:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -278,7 +278,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: writing
     values:
       layout: single
       author_profile: true
@@ -300,6 +300,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
+    
 
 
 
