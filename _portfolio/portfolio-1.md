@@ -1,6 +1,6 @@
 ---
 title: "Ảnh của tôi 1"
-excerpt: "Ăn tiệc hôm YEP VHT 2025<br/><img src='/images/profile.png'>"
+excerpt: "Ăn tiệc hôm YEP VHT 2025<br/><img src='/images/profile/profile.png'>"
 collection: portfolio
 ---
 
