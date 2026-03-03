@@ -4,7 +4,7 @@ collection: projects
 layout: single
 permalink: /projects/my-project1
 date: 2025-01-01
-excerpt: "Short description of my project"
+excerpt: "Projects with University of South Florida and Moffitt Cancer Center, Tampa, Florida, USA"
 ---
 # 2023
 ## Intelligent, personalized risk prediction for Intraductal Papillary Mucinous Neoplasm (IPMN) of the Pancreas
