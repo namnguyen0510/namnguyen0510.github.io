@@ -27,6 +27,6 @@ My research focus on:
  
 ## Contact
 
-**Email**: [namnp.0510@gmail.com]
+**Email**: namnp.0510@gmail.com
 
-**GitHub**: [https://github.com/namnguyen0510]
+**GitHub**: [namnguyen0510 GitHub](https://github.com/namnguyen0510)
