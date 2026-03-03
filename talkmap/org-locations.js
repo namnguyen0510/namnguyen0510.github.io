@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Advancing Modeling and biomarker identification in Biomedicine Using Quantum Machine Intelligence<br />RECOMB/ISCB Conference on Regulatory and System Genomics with DREAM Challenges 2022; Los Vegas, USA",
+    39.3133337,
+    -76.757791
   ]
 ];
