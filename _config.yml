@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Harvey Nguyen"
+title                    : "(Harvey) Nam Nguyen"
 title_separator          : "-"
-name                     : &name "Harvey Nguyen" # Update this with your name, this is the default if not overridden by a page
-description              : &description "Harvey Nguyen's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Nam Nguyen" # Update this with your name, this is the default if not overridden by a page
+description              : &description "Nam Nguyen's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://namnguyen0510.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "namnguyen0510/namnguyen0510.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Nam (Harvey) Nguyen Phuong"
+  name             : "(Harvey) Phuong-Nam Nguyen"
   pronouns         : #  
   bio              : "I am a Quantum Engineer"
   location         : "Ha Noi, Vietnam"
