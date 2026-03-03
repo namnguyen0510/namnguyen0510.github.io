@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Quantum tunneling in mutations in living body<br />VIASM-IPP Workshop 2024; Hanoi, Vietnam",
+    "Quantum tunneling with linear potential functions<br />VIASM-IPP Workshop 2024; Hanoi, Vietnam",
     21.0283334,
     105.854041
   ],
