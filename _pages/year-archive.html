@@ -15,14 +15,16 @@ redirect_from:
 .sidebar-tag-item {
   text-decoration: none !important;
 }
-<<<<<<< Updated upstream
-.tab-btn.active { background: #2e7d32; color: white; font-weight: bold; }
-=======
->>>>>>> Stashed changes
-.blog-layout { display: flex; gap: 2rem; align-items: flex-start; }
-.blog-main { flex: 1; min-width: 0; }
+.archive__item-title a:hover,
+.page__taxonomy-item:hover,
+.sidebar-tag-item:hover {
+  text-decoration: none !important;
+}
+.blog-layout { display: flex; gap: 2rem; align-items: flex-start; flex-wrap: nowrap; }
+.blog-main { flex: 1; min-width: 0; overflow: hidden; }
 .blog-sidebar {
-  width: 220px;
+  width: 200px;
+  min-width: 200px;
   flex-shrink: 0;
   position: sticky;
   top: 2rem;
@@ -37,7 +39,7 @@ redirect_from:
   margin: 0 0 0.8rem 0;
   font-size: 0.95rem;
   color: #333;
-  border-bottom: 2px solid #0092ca;
+  border-bottom: 2px solid #2e7d32;
   padding-bottom: 6px;
 }
 .sidebar-tag-item {
@@ -51,7 +53,7 @@ redirect_from:
   font-size: 0.8rem;
   transition: all 0.2s;
 }
-.sidebar-tag-item:hover { background: #0092ca; color: white; }
+.sidebar-tag-item:hover { background: #2e7d32; color: white; }
 .tab-container { margin-top: 1rem; }
 .tab-buttons { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 1.5rem; border-bottom: 2px solid #e0e0e0; padding-bottom: 8px; }
 .tab-btn {
@@ -63,10 +65,10 @@ redirect_from:
   font-size: 0.9rem;
   color: #555;
   transition: all 0.2s;
-  text-decoration: none;
+  text-decoration: none !important;
 }
-.tab-btn:hover { background: #ddd; }
-
+.tab-btn:hover { background: #2e7d32; color: white; text-decoration: none !important; }
+.tab-btn.active { background: #2e7d32; color: white; font-weight: bold; }
 .tab-panel { display: none; }
 .tab-panel.active { display: block; }
 .page__taxonomy { margin-top: 0.4rem; font-size: 0.85rem; color: #666; }
@@ -80,7 +82,7 @@ redirect_from:
   text-decoration: none;
   font-size: 0.8rem;
 }
-.page__taxonomy-item:hover { background: #0092ca; color: white; }
+.page__taxonomy-item:hover { background: #2e7d32; color: white; }
 </style>
 
 {% assign posts_by_category = site.posts | group_by: "categories" %}
@@ -121,10 +123,10 @@ redirect_from:
               <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
                 <h2 class="archive__item-title" itemprop="headline">
                   <a href="{{ post.url }}" rel="permalink">{{ post.title }}</a>
-                  <p class="page__meta" style="margin-top: 0.4rem; margin-bottom: 0.4rem;">
-                    <i class="fas fa-calendar"></i> Published: {{ post.date | date: "%B %d, %Y" }}
-                  </p>
                 </h2>
+                <p class="page__meta" style="margin-top: 0.4rem; margin-bottom: 0.4rem;">
+                  <i class="fas fa-calendar"></i> Published: {{ post.date | date: "%B %d, %Y" }}
+                </p>
                 {% if post.excerpt %}
                   <p class="archive__item-excerpt" itemprop="description">
                     {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
