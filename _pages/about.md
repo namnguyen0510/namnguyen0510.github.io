@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Quantum Engineer | BS in Mathematics and Education | Master in Statistics
+# Quantum Engineer
 
 I am a quantum engineer with background in mathematics, statistics and quantum computing.
 
