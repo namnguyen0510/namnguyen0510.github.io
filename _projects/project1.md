@@ -3,7 +3,7 @@ title: "My Project"
 collection: projects
 layout: single
 permalink: /projects/my-project1
-#date: 2025-01-01
+date: 2025-01-01
 excerpt: "Short description of my project"
 ---
 
