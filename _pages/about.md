@@ -7,40 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-# Quantum Engineer | MSc in Quantum Technology
+# Quantum Engineer | BS in Mathematics and Education | Master in Statistics
 
-I am a quantum engineer with a strong background in physics and quantum computing, combined with hands-on experience in building scalable systems.
+I am a quantum engineer with background in mathematics, statistics and quantum computing.
 
-My work lies at the intersection of:
+My research focus on:
 
-- Quantum theory
-- Engineering systems
-- Real-world applications
-
----
-
-## Current Focus
-
-- Applied Quantum Computing  
-- Quantum Information Systems  
-- Scalable Engineering Architectures  
+- Quantum optimization and quantum machine intelligence
+- Distributed quantum computing and its applications
+- Quantum phenomenon in biological processes
+- Bioinformatics and drug design
 
 ---
 
 ## Academic Background
 
-- MSc in Quantum Technology  
-- Teaching experience in Physics & Quantum Computing  
-
----
-
-## Selected Work
-
-Visit the Publications section for full research details.
-
----
-
+- Master of Arts in Statistics, University of South Florida, United States
+- Bachelor of Science in Mathematics and Education, Hanoi University of Education, Vietnam
+ 
 ## Contact
 
-Email: namnp0510@gmail.com  
-GitHub: https://github.com/namnp0510
+Email: namnp.0510@gmail.com
+GitHub: https://github.com/namnguyen0510
